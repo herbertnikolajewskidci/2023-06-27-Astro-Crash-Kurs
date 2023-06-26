@@ -1,4 +1,4 @@
-# [Datum]-[Thema]
+# 2023-06-27-Astro-Crash-Kurs
 
 ## Folgende Schritte bitte befolgen:
 
