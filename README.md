@@ -2,6 +2,6 @@
 
 ## Folgende Schritte bitte befolgen:
 
-- Anweisung 1
-- Anweisung 2
-- usw.
+-   `npm create astro@latest`
+-   `cd frontend`
+-   `npm run dev`
